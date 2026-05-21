@@ -3,8 +3,8 @@
 ## 👤 Datos del Alumno
 | Campo | Información |
 |-------|-------------|
-| Nombre completo | [valeria saenz villanueva] |
-| Número de control | [24308051220595]
+| Nombre completo | [karla bustillos meraz] |
+| Número de control | [24308051220565]
 | Grupo | [f] |
 | Grado | [4] |
 | Escuela | [cbtis 122 |
